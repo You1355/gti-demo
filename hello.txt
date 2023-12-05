@@ -1,3 +1,4 @@
-hello Git！！！
-hello Java~~~
-hello world
+hello Git
+hello Java
+hello Web
+hello Mysql
